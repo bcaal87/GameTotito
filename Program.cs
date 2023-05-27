@@ -15,7 +15,7 @@ namespace TicTacToe
 
             // Dibujar el tablero inicial
             DibujarTablero();
-            Console.WriteLine("Jugador 1 = O\nJugador 2 = X");
+            Console.WriteLine("Jugador 01 = O\nJugador 2 = X");
 
             do /* Usamos un ciclo do-while porque desconocemos el número de veces que se
                   tiene que llevar a cabo */
